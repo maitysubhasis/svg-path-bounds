@@ -22,7 +22,7 @@
   "dependencies": {
     "abs-svg-path": "^0.1.1",
     "is-svg-path": "^1.0.1",
-    "normalize-svg-path": "^1.0.0",
+    "normalize-svg-path": "https://github.com/etgryphon/normalize-svg-path#2f4c9626b677af208d8d8a60a59534f09af7109b",
     "parse-svg-path": "^0.1.2"
   },
   "repository": {
